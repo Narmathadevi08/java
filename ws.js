@@ -41,3 +41,4 @@ function wakeup(){
               .then(value2=>{console.log(value2);return office()})
               .catch(err=>{console.log(err)})
         console.log("hello world")
+console.log("how are you")

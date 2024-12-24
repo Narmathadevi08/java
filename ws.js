@@ -51,3 +51,7 @@ function wakeup(){
         
       console.log("hello world")
 console.log("how are you")
+      // add new list
+      // fruits
+      //flowers
+      //chocolate

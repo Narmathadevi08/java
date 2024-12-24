@@ -40,5 +40,18 @@ function wakeup(){
       wakeup().then(value1=>{console.log(value1);return gym()})
               .then(value2=>{console.log(value2);return office()})
               .catch(err=>{console.log(err)})
-        console.log("hello world")
+        
+        
+        
+        
+       
+              
+
+              
+        
+      console.log("hello world")
 console.log("how are you")
+      // add new list
+      // fruits
+      //flowers
+      //chocolate

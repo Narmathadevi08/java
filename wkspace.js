@@ -21,6 +21,6 @@ function wakeup(){
    //             reject("he is not going to gym");
    //           }
              
-   //         },4000);
+   //         },4000); 
    //       }) 
    //     }

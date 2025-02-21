@@ -44,3 +44,6 @@
 // console.log("how are you")
 var data=`hello\"narms\",\n\t how are you doing\b?`
 console.log(data);
+  
+
+  

@@ -23,7 +23,7 @@
 //function name(x, y) {
  //   console.log("hello " + x + " how are " + y);
 //}
-//name("everyone", "you");
+//name("everyone", "you"); 
 // var a=10;
 // var b=20;
 // console.log(a+=b);
